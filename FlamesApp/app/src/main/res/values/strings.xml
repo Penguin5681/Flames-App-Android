@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flames</string>
+    <string name="enter_your_name"> Enter Your Name</string>
+    <string name="enter_your_partner_s_name">Enter Your Partner\'s Name</string>
+    <string name="proceed">Proceed</string>
+    <string name="exit">Exit</string>
+    <string name="calculate_results">Calculate</string>
+
+    <!-- FLAMES: -->
+    <string name="friends">Friends</string>
+    <string name="lovers">Lovers</string>
+    <string name="affectionate">Affectionate</string>
+    <string name="marriage">Marriage</string>
+    <string name="enemy">Enemy</string>
+    <string name="siblings">Siblings</string>
+
+</resources>
